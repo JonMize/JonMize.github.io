@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,19 +12,38 @@
       padding: 0;
     }
     header {
-      background-color: #ff4500; 
+      background-color: #ff4500;
       color: #000000; 
-      text-align: center;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       padding: 20px;
     }
-    header h1 {
-      font-size: 2.5em;
-      margin: 0;
+    .header-text {
+      flex: 1;
+      text-align: left;
     }
-    header a {
+    .header-text a {
       color: #000000;
       text-decoration: none;
       font-weight: bold;
+      display: block;
+    }
+    .header-text p {
+      margin: 5px 0;
+    }
+    .header-image {
+      flex: 0.5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .header-image img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #000000;
     }
     main {
       padding: 20px;
@@ -55,15 +74,20 @@
 </head>
 <body>
   <header>
-    <a href="https://www.linkedin.com/in/jonathan-mize-4212b7302">My LinkedIn</a><br>
-    <a href="https://www.github.com/JonMize">My Github</a><br>
-    <a href="mailto:mizejonathanl@gmail.com">mizejonathanl@gmail.com</a>
-    <p>404-884-5613</p>
+    <div class="header-text">
+      <a href="https://www.linkedin.com/in/jonathan-mize-4212b7302">My LinkedIn</a>
+      <a href="https://www.github.com/JonMize">My Github</a>
+      <a href="mailto:mizejonathanl@gmail.com">mizejonathanl@gmail.com</a>
+      <p>404-884-5613</p>
+    </div>
+    <div class="header-image">
+      <img src="headshot.jpg" alt="Jonathan Mize Headshot">
+    </div>
   </header>
   <main>
     <h2>Projects</h2>
     <ul>
-      <li><a href = "https://github.com/JonMize/BookRec">BookRec:</a> A book recommendation app using Flutter, OpenAI API, Google Books API, and Google Firebase</li>
+      <li><a href="https://github.com/JonMize/BookRec">BookRec:</a> A book recommendation app using Flutter, OpenAI API, Google Books API, and Google Firebase</li>
       <li>Project 2: Description of the second project.</li>
       <li>Project 3: Description of the third project.</li>
     </ul>
