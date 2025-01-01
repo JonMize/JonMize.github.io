@@ -82,7 +82,7 @@
       <a href = "https://drive.google.com/file/d/1lQd8LtnCE3vYUHKJNK3svl27lz-uXAeo/view?usp=drive_link">My Resume</a>
       <a href="https://www.linkedin.com/in/jonathan-mize-4212b7302">My LinkedIn</a>
       <a href="https://www.github.com/JonMize">My Github</a>
-      <a href="mailto:mizejonathanl@gmail.com">mizejonathanl@gmail.com</a>
+      <a href="mailto:mizejonathanl@gmail.com">My Email</a>
       <p>404-884-5613</p>
     </div>
     <div class="header-image">
