@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,7 +55,6 @@
 </head>
 <body>
   <header>
-    <h1>Jonathan Mize</h1>
     <a href="https://www.linkedin.com/in/jonathan-mize-4212b7302">My LinkedIn</a><br>
     <a href="https://www.github.com/JonMize">My Github</a><br>
     <a href="mailto:mizejonathanl@gmail.com">mizejonathanl@gmail.com</a>
