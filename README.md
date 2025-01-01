@@ -1,6 +1,5 @@
 <HTML>
   <head>
-    <h1>Jonathan Mize</h1>
     <h2>
     <a href = "https://www.linkedin.com/in/jonathan-mize-4212b7302">My LinkedIn</a>
     <a href = "https://www.github.com/JonMize">My Github</a>
