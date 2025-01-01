@@ -21,7 +21,7 @@
     }
     .header-text {
       flex: 1;
-      text-align: left;
+      text-align: center;
     }
     .header-text a {
       color: #000000;
@@ -74,6 +74,9 @@
 </head>
 <body>
   <header>
+  <div class="header-image">
+      <img src="gsu.png" alt="gsu logo">
+    </div>
     <div class="header-text">
       <a href="https://www.linkedin.com/in/jonathan-mize-4212b7302">My LinkedIn</a>
       <a href="https://www.github.com/JonMize">My Github</a>
@@ -81,7 +84,7 @@
       <p>404-884-5613</p>
     </div>
     <div class="header-image">
-      <img src="headshot.jpg" alt="Jonathan Mize Headshot">
+      <img src="headshot.jpg" alt="headshot">
     </div>
   </header>
   <main>
