@@ -18,6 +18,7 @@
       justify-content: space-between;
       align-items: center;
       padding: 20px;
+      font-size:2em;
     }
     .header-text {
       flex: 1;
