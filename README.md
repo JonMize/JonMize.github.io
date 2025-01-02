@@ -103,8 +103,8 @@
   <main>
     <h2>Projects</h2>
     <ul>
-      <li><a href="https://github.com/JonMize/BookRec">BookRec:</a> A book recommendation app using Flutter, <a href = "https://platform.openai.com/docs/overview">OpenAI API</a>, <a href = "https://developers.google.com/books">Google Books API</a>, and <a href = "https://firebase.google.com/">Google Firebase</a> (Request APK via email)</li>
-      <li><a href="https://github.com/JonMize/FoodTracker">FoodTracker</a> A diet tracking app utilizing Python/Flask for backend and data visualization, MySQL for storage, HTML/CSS, Matplotlib (pyPlot), and <a href = "https://platform.fatsecret.com/platform-api">FatSecret API</a></li>
+      <li><strong><a href="https://github.com/JonMize/BookRec" font-style: italic>BookRec:</a></strong> A book recommendation app using Flutter, <a href = "https://platform.openai.com/docs/overview">OpenAI API</a>, <a href = "https://developers.google.com/books">Google Books API</a>, and <a href = "https://firebase.google.com/">Google Firebase</a> (Request APK via email)</li>
+      <li><strong><a href="https://github.com/JonMize/FoodTracker" font-style: italic>FoodTracker:</a></strong> A diet tracking app utilizing Python/Flask for backend and data visualization, MySQL for storage, HTML/CSS, Matplotlib (pyPlot), and <a href = "https://platform.fatsecret.com/platform-api">FatSecret API</a></li>
       <li>Project 3: Description of the third project.</li>
     </ul>
     <h2>Experience</h2>
