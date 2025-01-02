@@ -126,8 +126,8 @@
             </li>
             <li>Judge the User's prompt and Agent's task workflow to improve accuracy of responses</li>
             <li>When needed: Alter the Agent's workflow by using parallelization and joining of tasks</li>
-            <img src = "maxisWorkFlow.png"><p>Example Maxis workflow^</p>
           </ul>
+          <img src = "maxisWorkFlow.png"><p>Example Maxis workflow^</p>
         </ul>
       <li><a href = "https://jobs.publix.com/job-opening/cashier">Front Service Clerk/Cashier - Publix</a></li>
         <ul class = "sublist">
