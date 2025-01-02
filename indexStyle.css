@@ -77,3 +77,6 @@ body {
   .sublist::marker {
     color: #ff4500;
   }
+  .maxis{
+    max-width: 50%;
+  }
