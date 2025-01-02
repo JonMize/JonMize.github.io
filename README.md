@@ -13,7 +13,7 @@
     }
     header {
       background-color: #ff4500;
-      color: #000000; 
+      color: #1e1e1e; 
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -25,7 +25,7 @@
       text-align: center;
     }
     .header-text a {
-      color: #000000;
+      color: #1e1e1e;
       text-decoration: none;
       font-weight: bold;
       display: block;
@@ -44,7 +44,7 @@
       height: 150px;
       border-radius: 50%;
       object-fit: cover;
-      border: 3px solid #000000;
+      border: 5px solid #1e1e1e;
     }
     main {
       padding: 20px;
@@ -63,6 +63,7 @@
     a {
       color: #ff4500;
       text-decoration: none;
+      font-style: italic;
     }
     a:hover {
       text-decoration: underline;
