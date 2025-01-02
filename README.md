@@ -126,7 +126,7 @@
             </li>
             <li>Judge the User's prompt and Agent's task workflow to improve accuracy of responses</li>
             <li>When needed: Alter the Agent's workflow by using parallelization and joining of tasks</li>
-            <img src = "maxisWorkFlow.png"></img>
+            <img src = "maxisWorkFlow.png"><p>Example Maxis workflow^</p>
           </ul>
         </ul>
       <li>Front Service Clerk/Cashier - Publix</li>
