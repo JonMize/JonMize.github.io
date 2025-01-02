@@ -1,0 +1,79 @@
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #ff4500;
+    color: #1e1e1e; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size:1.2em;
+  }
+  .header-text {
+    flex: 1;
+    text-align: center;
+  }
+  .header-text a {
+    color: #1e1e1e;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+  }
+  .header-text p {
+    margin: 5px 0;
+  }
+  .header-image {
+    flex: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .header-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #1e1e1e;
+  }
+  main {
+    padding: 20px;
+  }
+  h2 {
+    color: #ff4500;
+    font-size: 1.8em;
+    margin-top: 30px;
+    border-bottom: 2px solid #ff4500;
+    padding-bottom: 5px;
+  }
+  p {
+    font-size: 1em;
+    margin: 5px 0;
+  }
+  a {
+    color: #ff4500;
+    text-decoration: none;
+    font-style: italic;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  .sublist {
+    font-size: 0.9em;
+    margin: 5px 0;
+    padding-left: 25px;
+  }
+  .sublist li {
+    margin: 3px 0;
+  }
+  .sublist::marker {
+    color: #ff4500;
+  }
