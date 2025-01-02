@@ -109,7 +109,7 @@
     </ul>
     <h2>Experience</h2>
     <ul>
-      <li>Prompt Engineer/AI Trainer - Data Annotation</li>
+      <li><a href = "https://www.dataannotation.tech">Prompt Engineer/AI Trainer - Data Annotation</a></li>
       <ul class = "sublist">
         <li>Mar 2024 - Now</li>
         <li>Completed <a href = "https://github.com/JonMize/decodePyramid">[This test]</a> in Python in order to unlock the various coding-based projects</li>
@@ -129,7 +129,7 @@
             <img src = "maxisWorkFlow.png"><p>Example Maxis workflow^</p>
           </ul>
         </ul>
-      <li>Front Service Clerk/Cashier - Publix</li>
+      <li><a href = "https://jobs.publix.com/job-opening/cashier">Front Service Clerk/Cashier - Publix</a></li>
         <ul class = "sublist">
         <li>May 2023 - Dec 2023</li>
         <li>Top cashier for Club Publix customer retention numerous weeks</li>
