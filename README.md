@@ -71,6 +71,17 @@
       list-style-type: disc;
       margin-left: 20px;
     }
+    .sublist {
+      font-size: 0.9em;
+      margin: 5px 0;
+      padding-left: 25px;
+    }
+    .sublist li {
+      margin: 3px 0;
+    }
+    .sublist::marker {
+      color: #ff4500;
+    }
   </style>
 </head>
 <body>
@@ -98,9 +109,33 @@
     </ul>
     <h2>Experience</h2>
     <ul>
-      <li>Job Title 1: Description of the first role.</li>
-      <li>Job Title 2: Description of the second role.</li>
-      <li>Job Title 3: Description of the third role.</li>
+      <li>Prompt Engineer/AI Trainer - Data Annotation</li>
+      <ul class = "sublist">
+        <li>Mar 2024 - Now</li>
+        <li>Completed <a href = "https://github.com/JonMize/decodePyramid">[This test]</a> in Python in order to unlock the various coding-based projects</li>
+        <li>Project 1: Given a user prompt and the AI's code snippet response: Rate the response on these criteria:</li>
+          <ol>
+          <li>Is the code functioning? If not, is the code salvagable by someone with intermediate knowledge of the language?</li>
+          <li>Is the code readable? Can a user understand the functionality without asking the AI to further explain?</li>
+          <li>Is the code efficient? Can there be improvements in either time or space complexity when applicable?</li>
+          </ol>
+        <li>Project Maxis (Personal Favorite): Given a simulation in the form of JSON data, test the accuracy of an AI phone assistant</li>
+          <ul>
+            <li>The user prompts the AI to do at least 3 write actions in any of the following apps or combinations of apps: Calendar, Messages, Email, Contacts, Taxi service, WhatsApp, Shopping, Files, Rental App, Phone</li>
+            <li>Load the JSON of the simulation (made up data for all apps such as text conversations, meetings scheduled, past taxi rides, etc)
+            </li>
+            <li>Judge the User's prompt and Agent's task workflow to improve accuracy of responses</li>
+            <li>When needed: Alter the Agent's workflow by using parallelization and joining of tasks</li>
+            <img src = "maxisWorkFlow.png"></img>
+          </ul>
+        </ul>
+      <li>Front Service Clerk/Cashier - Publix</li>
+        <ul class = "sublist">
+        <li>May 2023 - Dec 2023</li>
+        <li>Top cashier for Club Publix customer retention numerous weeks</li>
+        <li>Cashiering and assisting customers with bags and carts</li>
+        <li>Various other tasks as assigned</li>
+        </ul>
     </ul>
   </main>
 </body>
