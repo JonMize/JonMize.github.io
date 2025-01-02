@@ -103,19 +103,19 @@
   <main>
     <h2>Projects</h2>
     <ul>
-      <li><strong><a href="https://github.com/JonMize/BookRec" font-style: italic>BookRec:</a></strong> A book recommendation app using Flutter, <a href = "https://platform.openai.com/docs/overview">OpenAI API</a>, <a href = "https://developers.google.com/books">Google Books API</a>, and <a href = "https://firebase.google.com/">Google Firebase</a> (Request APK via email)</li>
-      <li><strong><a href="https://github.com/JonMize/FoodTracker" font-style: italic>FoodTracker:</a></strong> A diet tracking app utilizing Python/Flask for backend and data visualization, MySQL for storage, HTML/CSS, Matplotlib (pyPlot), and <a href = "https://platform.fatsecret.com/platform-api">FatSecret API</a></li>
-      <li>Project 3: Description of the third project.</li>
+      <li><strong><a href="https://github.com/JonMize/BookRec">BookRec:</a></strong> A book recommendation app using Flutter, <a href = "https://platform.openai.com/docs/overview">OpenAI API</a>, <a href = "https://developers.google.com/books">Google Books API</a>, and <a href = "https://firebase.google.com/">Google Firebase</a> (Request APK via email)</li>
+      <li><strong><a href="https://github.com/JonMize/FoodTracker">FoodTracker:</a></strong> A diet tracking app utilizing Python/Flask for backend and data visualization, MySQL for storage, HTML/CSS, Matplotlib (pyPlot), and <a href = "https://platform.fatsecret.com/platform-api">FatSecret API</a></li>
     </ul>
     <h2>Experience</h2>
     <ul>
       <li><a href = "https://www.dataannotation.tech">Prompt Engineer/AI Trainer - Data Annotation</a></li>
       <ul class = "sublist">
         <li>Mar 2024 - Now</li>
+        <li>Languages: Java, C, JSON, SQL, .NET, HTML/CSS, Javascript, Python, Haskell</li>
         <li>Completed <a href = "https://github.com/JonMize/decodePyramid">[This test]</a> in Python in order to unlock the various coding-based projects</li>
         <li>Project 1: Given a user prompt and the AI's code snippet response: Rate the response on these criteria:</li>
           <ol>
-          <li>Is the code functioning? If not, is the code salvagable by someone with intermediate knowledge of the language?</li>
+          <li>Is the code functioning? If not, is the code salvagable by someone with intermediate knowledge of the language? If so, rewrite the code to have the proper functionality.</li>
           <li>Is the code readable? Can a user understand the functionality without asking the AI to further explain?</li>
           <li>Is the code efficient? Can there be improvements in either time or space complexity when applicable?</li>
           </ol>
@@ -127,7 +127,7 @@
             <li>Judge the User's prompt and Agent's task workflow to improve accuracy of responses</li>
             <li>When needed: Alter the Agent's workflow by using parallelization and joining of tasks</li>
           </ul>
-          <img src = "maxisWorkFlow.png"><p>Example Maxis workflow^</p>
+          <img src = "maxisWorkFlow.png"><p>Example Maxis workflow utilizing parallelization^</p>
         </ul>
       <li><a href = "https://jobs.publix.com/job-opening/cashier">Front Service Clerk/Cashier - Publix</a></li>
         <ul class = "sublist">
