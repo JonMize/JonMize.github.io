@@ -43,4 +43,5 @@ function handleParallaxSlide() {
     handleParallaxFade();
     handleParallaxSlide();
   });
+
   
