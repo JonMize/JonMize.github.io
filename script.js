@@ -43,18 +43,4 @@ function handleParallaxSlide() {
     handleParallaxFade();
     handleParallaxSlide();
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    const track = document.querySelector('.parallelogram-track');
-    const containerWidth = document.querySelector('.parallelogram-container').offsetWidth;
-    const parallelogramWidth = 65; // Width of one parallelogram + gap
   
-    const count = Math.ceil(containerWidth / parallelogramWidth) * 2;
-  
-    track.innerHTML = ''; // Clear existing parallelograms
-  
-    for (let i = 0; i < count; i++) {
-      const para = document.createElement('div');
-      para.classList.add('parallelogram');
-      track.appendChild(para);
-    }
-  });  
